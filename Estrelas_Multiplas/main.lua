@@ -16,7 +16,7 @@ function DefinePontoY(xCentro, yCentro, raio, angulo)
 end
 
 function love.draw()
-    xCentroPrincipal = 200
+    xCentroPrincipal = 220
     yCentroPrincipal = 200
     rMaiorzao = 100
     rMaior = 30
